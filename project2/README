@@ -1,0 +1,12 @@
+Cüneyt EREM
+21202398
+
+Project2;
+
+-report is in the file in different size of M(input size), N , R.
+
+-callcount.c includes all parts and it sorts all callids in output file
+
+-makefile has 3 different types of test which supperts different number of inputs files, different N and different number of R (report includes tables). It sorted values depends on 1900-1999 (or different nums such as 1950-1990) and also 10000000-99999999 (or other values such as 500000000-88888888).
+
+-execution time is on the end of the output
